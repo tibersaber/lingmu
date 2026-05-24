@@ -31,10 +31,14 @@
             "id": "ae0183dc698bd399",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "陵墓/一、海棠.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "一、海棠"
             }
           }
         ]
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "陵墓/一、海棠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "一、海棠 的反向链接列表"
             }
           },
           {
@@ -128,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "陵墓/一、海棠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "一、海棠 的出链列表"
             }
           },
           {
@@ -156,12 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "陵墓/一、海棠.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "一、海棠 的大纲"
             }
           }
         ]
@@ -183,7 +190,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "612de7922488d24d",
+  "active": "ae0183dc698bd399",
   "lastOpenFiles": [
     "陵墓/二、白楮.md",
     "陵墓/一、海棠.md",
