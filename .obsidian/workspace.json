@@ -1,56 +1,98 @@
 {
   "main": {
-    "id": "bec4d94d373849cb",
+    "id": "fbc3fca481e0d6e2",
     "type": "split",
     "children": [
       {
-        "id": "4ac1cb17b6ee80c9",
+        "id": "1d043dfd66fce46a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d96da237310706b",
+            "id": "ae0183dc698bd399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "陵墓/一、海棠.md",
+                "file": "陵墓/1、海棠.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一、海棠"
+              "title": "1、海棠"
             }
           },
           {
-            "id": "6fe9a9674887cfe6",
+            "id": "a6f81a6fc5aa2840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "陵墓/二、白楮.md",
+                "file": "陵墓/4、问路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二、白楮"
+              "title": "4、问路"
+            }
+          },
+          {
+            "id": "e45bf6e6ae6a64c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "陵墓/5、错路.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5、错路"
+            }
+          },
+          {
+            "id": "39b537ab5f93acdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "陵墓/6、屠龙.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6、屠龙"
+            }
+          },
+          {
+            "id": "a92ef4c1c2471dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "陵墓/6、屠龙.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6、屠龙"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b44be49ce261bdd",
+    "id": "6566b2e43250f179",
     "type": "split",
     "children": [
       {
-        "id": "0912f2cd72d080fe",
+        "id": "b04da698ed35a2b5",
         "type": "tabs",
         "children": [
           {
-            "id": "ff64632165d1e44b",
+            "id": "612de7922488d24d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +105,7 @@
             }
           },
           {
-            "id": "0f9df56d19d095a0",
+            "id": "aefce91344ab7ed4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +122,7 @@
             }
           },
           {
-            "id": "99aa285c74ac44d0",
+            "id": "b49fc9a6c670d018",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +138,20 @@
     "width": 300
   },
   "right": {
-    "id": "870ba85a87aa17b9",
+    "id": "0d68a6418221c190",
     "type": "split",
     "children": [
       {
-        "id": "edab3b13fb864e3a",
+        "id": "66951b4a7802c62d",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ae1cc8667f1884",
+            "id": "585e8ea2ca6c23af",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "陵墓/二、白楮.md",
+                "file": "陵墓/一、海棠1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +161,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "二、白楮 的反向链接列表"
+              "title": "一、海棠1 的反向链接列表"
             }
           },
           {
-            "id": "c90ed5122d19ded8",
+            "id": "7dc22c987b6040a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "陵墓/二、白楮.md",
+                "file": "陵墓/一、海棠1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "二、白楮 的出链列表"
+              "title": "一、海棠1 的出链列表"
             }
           },
           {
-            "id": "3a9eff54909dd491",
+            "id": "d77be57ef58b42af",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +194,22 @@
             }
           },
           {
-            "id": "012b7c63be8ba435",
+            "id": "525455a26c8f4e08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "陵墓/一、海棠1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "一、海棠1 的大纲"
+            }
+          },
+          {
+            "id": "b140c812be0dce98",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,22 +223,7 @@
             }
           },
           {
-            "id": "61edf824965dd7ac",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "陵墓/二、白楮.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "二、白楮 的大纲"
-            }
-          },
-          {
-            "id": "512b17dd0d2080ee",
+            "id": "05a3013a1f714886",
             "type": "leaf",
             "state": {
               "type": "github-copilot-chat-view",
@@ -200,20 +242,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6fe9a9674887cfe6",
+  "active": "a92ef4c1c2471dce",
   "lastOpenFiles": [
-    "陵墓/一、海棠.md",
-    "陵墓/二、白楮.md",
-    "陵墓"
+    "陵墓/5、错路.md",
+    "陵墓/6、屠龙.md",
+    "陵墓/4、问路.md",
+    "陵墓/3、白纸.md",
+    "陵墓/1、海棠.md",
+    "陵墓/2、白楮.md",
+    "陵墓",
+    "README.md",
+    "欢迎.md"
   ]
 }
